@@ -1,0 +1,14 @@
+com\spendwise\report\dto\ExpenseSummaryDto.class
+com\spendwise\report\config\FeignConfig.class
+com\spendwise\report\client\ExpenseClient.class
+com\spendwise\report\controller\ReportController.class
+com\spendwise\report\dto\DashboardDto$DashboardDtoBuilder.class
+com\spendwise\report\client\BudgetClient.class
+com\spendwise\report\dto\BudgetSummaryDto.class
+com\spendwise\report\dto\ApiResponse$ApiResponseBuilder.class
+com\spendwise\report\dto\DashboardDto.class
+com\spendwise\report\config\SecurityConfig.class
+com\spendwise\report\config\SwaggerConfig.class
+com\spendwise\report\ReportServiceApplication.class
+com\spendwise\report\dto\ApiResponse.class
+com\spendwise\report\security\JwtAuthenticationFilter.class

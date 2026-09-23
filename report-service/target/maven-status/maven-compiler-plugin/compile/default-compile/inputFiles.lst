@@ -1,0 +1,12 @@
+C:\co\3.1\SOA-S7\Project\backend\report-service\src\main\java\com\spendwise\report\client\BudgetClient.java
+C:\co\3.1\SOA-S7\Project\backend\report-service\src\main\java\com\spendwise\report\client\ExpenseClient.java
+C:\co\3.1\SOA-S7\Project\backend\report-service\src\main\java\com\spendwise\report\config\FeignConfig.java
+C:\co\3.1\SOA-S7\Project\backend\report-service\src\main\java\com\spendwise\report\config\SecurityConfig.java
+C:\co\3.1\SOA-S7\Project\backend\report-service\src\main\java\com\spendwise\report\config\SwaggerConfig.java
+C:\co\3.1\SOA-S7\Project\backend\report-service\src\main\java\com\spendwise\report\controller\ReportController.java
+C:\co\3.1\SOA-S7\Project\backend\report-service\src\main\java\com\spendwise\report\dto\ApiResponse.java
+C:\co\3.1\SOA-S7\Project\backend\report-service\src\main\java\com\spendwise\report\dto\BudgetSummaryDto.java
+C:\co\3.1\SOA-S7\Project\backend\report-service\src\main\java\com\spendwise\report\dto\DashboardDto.java
+C:\co\3.1\SOA-S7\Project\backend\report-service\src\main\java\com\spendwise\report\dto\ExpenseSummaryDto.java
+C:\co\3.1\SOA-S7\Project\backend\report-service\src\main\java\com\spendwise\report\ReportServiceApplication.java
+C:\co\3.1\SOA-S7\Project\backend\report-service\src\main\java\com\spendwise\report\security\JwtAuthenticationFilter.java

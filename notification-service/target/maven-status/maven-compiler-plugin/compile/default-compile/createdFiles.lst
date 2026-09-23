@@ -1,0 +1,14 @@
+com\spendwise\notification\config\WebSocketConfig.class
+com\spendwise\notification\security\JwtAuthenticationFilter.class
+com\spendwise\notification\controller\NotificationController.class
+com\spendwise\notification\config\SecurityConfig.class
+com\spendwise\notification\NotificationServiceApplication.class
+com\spendwise\notification\repository\NotificationRepository.class
+com\spendwise\notification\dto\NotificationDto$NotificationDtoBuilder.class
+com\spendwise\notification\dto\ApiResponse.class
+com\spendwise\notification\service\NotificationService.class
+com\spendwise\notification\config\SwaggerConfig.class
+com\spendwise\notification\dto\ApiResponse$ApiResponseBuilder.class
+com\spendwise\notification\dto\NotificationDto.class
+com\spendwise\notification\entity\Notification$NotificationBuilder.class
+com\spendwise\notification\entity\Notification.class

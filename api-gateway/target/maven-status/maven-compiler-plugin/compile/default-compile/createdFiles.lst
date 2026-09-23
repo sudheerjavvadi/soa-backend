@@ -1,0 +1,3 @@
+com\spendwise\gateway\ApiGatewayApplication.class
+com\spendwise\gateway\filter\JwtAuthenticationFilter$Config.class
+com\spendwise\gateway\filter\JwtAuthenticationFilter.class
